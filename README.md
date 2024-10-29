@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For more information, please contact:
 
 - **Name:** Patience Wangui
-- **Email:** [your-email@example.com](patience.cui.g@gmailcom)
+- **Email:** patience.cui.g@gmailcom
 - **GitHub:** [Patience Wangui](https://github.com/Patiencewantae123)
 
 Thank you for checking out the BIONICSBLEND project!
