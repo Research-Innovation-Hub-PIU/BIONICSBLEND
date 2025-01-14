@@ -1,7 +1,4 @@
-# BIONICSBLEND
-Here’s a template for a README.md file for your BIONICSBLEND project on GitHub:
 
-```markdown
 # BIONICSBLEND
 
 Welcome to the BIONICSBLEND project! This project aims to blend cutting-edge technology with bionic solutions to enhance the quality of life for individuals requiring assistive devices.
